@@ -1,8 +1,9 @@
 title: Why doesn't SpaceX use parachutes to recover the booster?
+unique: Why doesn't SpaceX use parachutes to recover the booster?
 author: jon-ross
 publish-date: 1451771390
 private: true
-hero: /media/spacex/og2-launch2/landing-ground-view.jpg
+hero: /media/spacex/missions/og2-launch2/landing-ground-view.jpg
 
 It's a common question, and one that has some merit: why doesn't
 SpaceX just use parachutes to recover the Falcon 9 booster?

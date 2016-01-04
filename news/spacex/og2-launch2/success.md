@@ -1,4 +1,5 @@
 title: SpaceX Falcon 9 launch of 11 Orbcomm OG2 satellites a success
+unique: SpaceX Falcon 9 launch of 11 Orbcomm OG2 satellites a success
 author: jon-ross
 publish-date: 1451771390
 hero: /media/spacex/missions/og2-launch2/liftoff.jpg

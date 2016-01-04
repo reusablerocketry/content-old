@@ -1,4 +1,5 @@
 title: Grid Fins
+unique: Grid Fins
 author: jon-ross
 publish-date: 1451771390
 hero: media/grid-fins.jpg

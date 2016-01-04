@@ -1,4 +1,5 @@
 title: First public release of Reusable Rocketry
+unique: First public release of Reusable Rocketry
 author: jon-ross
 publish-date: 1451768018
 

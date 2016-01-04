@@ -1,4 +1,5 @@
 title: SpaceX
+unique: SpaceX
 author: jon-ross
 publish-date: 1451771390
 hero: /media/spacex/renders/dragon-2-on-mars.jpg
