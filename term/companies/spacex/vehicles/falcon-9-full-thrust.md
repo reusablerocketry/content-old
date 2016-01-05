@@ -1,9 +1,11 @@
+role: vehicle
 title: Falcon 9 Full Thrust
 synonym: Falcon 9 v1.2
 synonym: Falcon 9.2
 synonym: upgraded Falcon 9
 synonym: upgraded Falcon 9 v1.1
 synonym: Falcon 9 v1.1 Full Thrust
+synonym: F9FT
 author: jon-ross
 publish-date: 1451946556
 hero: /media/spacex/vehicles/falcon-9-full-thrust/vertical-pad.jpg
