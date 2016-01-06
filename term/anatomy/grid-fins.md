@@ -2,8 +2,6 @@ title: Grid Fins
 unique: Grid Fins
 author: jon-ross
 publish-date: 1451771390
-hero: media/grid-fins.jpg
-hero-caption: Grid fins fully deployed on the [Falcon 9](term)
 
 [Grid fins](wikipedia) (also known as lattice fins) are used
 to stabilize a vehicle, much like the more commonly used planar

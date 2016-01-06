@@ -1,7 +1,7 @@
 title: Falcon 9 v1.0
 author: jon-ross
 publish-date: 1451946556
-hero: /media/spacex/vehicles/falcon-9-v10/horizontal-hangar.jpg
+hero: /media/spacex/vehicles/falcon-9-v10/horizontal-hangar
 
 The Falcon 9 v1.0 is the first member of the [SpaceX](term)
 [Falcon 9 launch vehicle family](term:falcon9). It is a

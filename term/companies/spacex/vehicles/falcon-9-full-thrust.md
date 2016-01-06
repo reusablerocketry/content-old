@@ -8,7 +8,7 @@ synonym: Falcon 9 v1.1 Full Thrust
 synonym: F9FT
 author: jon-ross
 publish-date: 1451946556
-hero: /media/spacex/vehicles/falcon-9-full-thrust/vertical-pad.jpg
+hero: /media/spacex/vehicles/falcon-9-full-thrust/vertical-pad
 
 The Falcon 9 Full Thrust (also called "F9FT", the "Falcon 9 v1.2", the
 "upgraded Falcon 9", and sometimes the "Falcon 9.2") is an upgraded
