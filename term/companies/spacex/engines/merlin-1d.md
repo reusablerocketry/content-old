@@ -1,3 +1,9 @@
+role: engine
+manufacturer: spacex
+vehicle: f9-v10
+vehicle: f9-v11
+vehicle: f9ft
+//
 title: Merlin 1D
 synonym: M1D
 author: jon-ross

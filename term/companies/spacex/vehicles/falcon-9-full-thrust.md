@@ -1,4 +1,8 @@
 role: vehicle
+manufacturer: spacex
+engine: m1d
+engine: m1d-vac
+//
 title: Falcon 9 Full Thrust
 synonym: Falcon 9 v1.2
 synonym: Falcon 9.2

@@ -1,3 +1,8 @@
+role: vehicle
+manufacturer: spacex
+engine: m1d
+engine: m1d-vac
+//
 title: Falcon 9 v1.1
 synonym: F9 v1.1
 author: jon-ross
