@@ -2,7 +2,7 @@ role: manufacturer
 vehicle: f1
 vehicle: f9-v1.0
 vehicle: f9-v1.1
-location: hawthorne
+location: hawthorne-california
 location: lc-40
 location: slc-4e
 location: lc-39a
