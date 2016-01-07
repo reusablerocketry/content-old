@@ -1,4 +1,5 @@
 title: Falcon 9 v1.1
+synonym: F9 v1.1
 author: jon-ross
 publish-date: 1451946556
 hero: /media/spacex/vehicles/falcon-9-v11/horizontal-hangar

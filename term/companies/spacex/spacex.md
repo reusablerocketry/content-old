@@ -1,4 +1,12 @@
 role: manufacturer
+vehicle: f1
+vehicle: f9-v1.0
+vehicle: f9-v1.1
+location: hawthorne
+location: lc-40
+location: slc-4e
+location: lc-39a
+//
 title: SpaceX
 author: jon-ross
 publish-date: 1451771390
@@ -9,4 +17,4 @@ SpaceX is an American [aerospace](wikipedia) company. Founded in June
 (the [Falcon 1](term), the [Falcon 9 v1.0](term), and the
 [Falcon 9 v1.1](term)) as well as two iterations of the [Dragon](term)
 capsule. (The [upgraded Falcon 9 v1.1](term:f9ft) is
-an evolution of the Falcon 9 v1.1 vehicle, not a major refresh)
+an evolution of the Falcon 9 v1.1 vehicle, not a major refresh).
